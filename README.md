@@ -49,7 +49,7 @@ Or leave it empty and use the [link text itself].
 }
 
 <div>
-  <img src="https://github.com/hamsterguard/test/blob/master/image/Rasp-1.jpg" width="340" title=“RedOutdoorweater” alt=“Our red outdoor sweaters are on sale now!” class="inactiveLink">
+  <img src="https://github.com/hamsterguard/test/blob/master/image/Rasp-1.jpg" width="340" title=“RedOutdoorweater” alt=“Our red outdoor sweaters are on sale now!” class="inactiveLink" href="https://github.com/hamsterguard">
   <img src="https://github.com/hamsterguard/test/blob/master/untitled23.gif" height="180" width="340">
 </div>
 
